@@ -5,7 +5,7 @@ Projeto desenvolvido durante o 3° semestre do curso de ADS na Faculdade Impacta
 Exercícios elaborados pelo próprio professor da disciplina referentes ao consumo da PokeAPI. 
 
 ### Ambiente virtual
-Durante este, é recomendado a criação de um ambiente virtual, o que garante o desenvolvimento estável e consistente sem interferir em outros projetos ou no ambiente global, neste caso, do Python. **É importante que esse passo seja feito antes mesmo da instalação do Django! Para que o mesmo seja usado no próprio ambiente** Para criá-lo e ativá-lo, execute os seguintes comandos:
+Durante este, é recomendado a criação de um ambiente virtual, o que garante o desenvolvimento estável e consistente sem interferir em outros projetos ou no ambiente global, neste caso, do Python. **É importante que esse passo seja feito antes mesmo da instalação do Flask e das bibliotecas extras! Para que o mesmo seja usado no próprio ambiente** Para criá-lo e ativá-lo, execute os seguintes comandos:
 
 ```
 $ python -m venv nome_ambiente
